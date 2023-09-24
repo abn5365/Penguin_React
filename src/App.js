@@ -7,10 +7,10 @@ function App() {
     return (
       <div className="App">
         <h1>Hello World!</h1>
-        <h1>Welcome to my card</h1>
-        <img src="https://cdn.creatureandcoagency.com/uploads/2021/03/FrogLifecycle_Body_8.png" alt="Frog" />
+        <h1>This is a penguin.</h1>
+        <img src="https://toppng.com/uploads/preview/club-penguin-old-penguin-11550188540ypyeuqw1as.png alt="Frog" />
         <div className="paragraph">
-          <p>This is a picture of a frog that I found on the internet. It looks really cool, and I thought it would be nice to share.</p>
+          <p>This penguin is in a really cool club, join today.</p>
         </div>
         <div class="btn-wrapper">
  <a href="https://hax.psu.edu">
