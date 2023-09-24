@@ -8,7 +8,7 @@ function App() {
       <div className="App">
         <h1>Hello World!</h1>
         <h1>This is a penguin.</h1>
-        <img src="https://toppng.com/uploads/preview/club-penguin-old-penguin-11550188540ypyeuqw1as.png alt="Frog" />
+        <img src="https://toppng.com/uploads/preview/club-penguin-old-penguin-11550188540ypyeuqw1as.png" alt="Frog" />        
         <div className="paragraph">
           <p>This penguin is in a really cool club, join today.</p>
         </div>
